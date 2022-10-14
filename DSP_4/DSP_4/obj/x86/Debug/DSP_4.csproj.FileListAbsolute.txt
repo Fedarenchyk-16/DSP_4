@@ -1,0 +1,11 @@
+C:\COS\Lab4(3)\DSP_4\DSP_4\bin\Debug\DSP_3.exe.config
+C:\COS\Lab4(3)\DSP_4\DSP_4\bin\Debug\DSP_3.exe
+C:\COS\Lab4(3)\DSP_4\DSP_4\bin\Debug\DSP_3.pdb
+C:\COS\Lab4(3)\DSP_4\DSP_4\obj\x86\Debug\DSP_4.csproj.AssemblyReference.cache
+C:\COS\Lab4(3)\DSP_4\DSP_4\obj\x86\Debug\DSP_4.csproj.SuggestedBindingRedirects.cache
+C:\COS\Lab4(3)\DSP_4\DSP_4\obj\x86\Debug\DSP_4.MainForm.resources
+C:\COS\Lab4(3)\DSP_4\DSP_4\obj\x86\Debug\DSP_3.Properties.Resources.resources
+C:\COS\Lab4(3)\DSP_4\DSP_4\obj\x86\Debug\DSP_4.csproj.GenerateResource.cache
+C:\COS\Lab4(3)\DSP_4\DSP_4\obj\x86\Debug\DSP_4.csproj.CoreCompileInputs.cache
+C:\COS\Lab4(3)\DSP_4\DSP_4\obj\x86\Debug\DSP_3.exe
+C:\COS\Lab4(3)\DSP_4\DSP_4\obj\x86\Debug\DSP_3.pdb
